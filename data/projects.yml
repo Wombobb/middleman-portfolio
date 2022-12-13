@@ -5,7 +5,7 @@
 
 - name: KiSpace
   description: KiSpace is a bnb style project for the rental of event spaces. Utilized - JavaScript, HTML, CSS, Sinatra, Ruby on Rails, Bootstrap, PostgreSQL, Mapbox API
-  image: projects/KiSpace_homepage.png
+  image: projects/KiSpace_homepage1.png
   url: https://kispace.herokuapp.com/
 
 - name: Movie Select
