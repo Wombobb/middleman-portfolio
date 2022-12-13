@@ -1,5 +1,5 @@
 - name: Sinta
-  description: A hiring platform intended to help recruiting teams make quicker hiring decisions with less bias. An MVC application developed as a group of 4. Utilized - JavaScript, HTML, SCSS, Ruby on Rails, Bootstrap, PostgreSQL, Slack API
+  description: A hiring platform intended to help recruiting teams make quicker hiring decisions with less bias. Utilized - JavaScript, HTML, SCSS, Ruby on Rails, Bootstrap, PostgreSQL, Slack API
   image: projects/sinta_homepage.png
   url: https://sintaapp.com/
 
