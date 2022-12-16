@@ -1,10 +1,10 @@
 - name: Sinta
-  description: A hiring platform intended to help recruiting teams make quicker hiring decisions with less bias. Utilized - JavaScript, HTML, SCSS, Ruby on Rails, Bootstrap, PostgreSQL, Slack API
+  description: A hiring platform intended with Slack integration.
   image: projects/sinta_homepage.png
   url: https://sintaapp.com/
 
 - name: KiSpace
-  description: KiSpace is a bnb style project for the rental of event spaces. Utilized - JavaScript, HTML, CSS, Sinatra, Ruby on Rails, Bootstrap, PostgreSQL, Mapbox API
+  description: KiSpace is a bnb style project for the rental of event spaces.
   image: projects/KiSpace_homepage1.png
   url: https://kispace.herokuapp.com/
 
